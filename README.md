@@ -4,6 +4,7 @@ I'm a Professional Software and Web Developer specializing in backend architectu
 
 ### 🚀 Featured Projects
 *   **Unbreakable Mailing System:** A robust, feature-rich desktop mailing application designed for high-performance email delivery, SMTP management, and SMS routing.
+*   **Carrier Sorter:** A high-speed desktop tool for bulk phone number carrier lookups (HLR). Features auto-pause on connection drops, instant disk saving, and duplicate skipping. 
 *   **Bulk SMS Sender:** A high-volume SMS broadcasting tool integrated with smtp-to-sms for reliable mass communication.
 
 ### 🛠️ Tech Stack
